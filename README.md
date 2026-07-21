@@ -12,7 +12,8 @@ client experience and workflow automation
 # Product Skills & Tools
 ● Core skills: User Research, Problem Framing, Wireframing, prioritization frameworks (RICE,
 MoSCow), UX/UI Principles, RAG basics, Prompt Engineering, Defining & Analyzing Metrics, SQL,
-System Design
+System Design  
+
 ● Product Management: Productboard, JIRA, Trello
 ● Documentation: Confluence, Notion
 ● Data & Analytics Tools: Mixpanel, Amplitude
