@@ -13,15 +13,10 @@ client experience and workflow automation
 ● Core skills: User Research, Problem Framing, Wireframing, prioritization frameworks (RICE,
 MoSCow), UX/UI Principles, RAG basics, Prompt Engineering, Defining & Analyzing Metrics, SQL,
 System Design  
-
-● Product Management: Productboard, JIRA, Trello
-
-● Documentation: Confluence, Notion
-
-● Data & Analytics Tools: Mixpanel, Amplitude
-
-● Design & Prototyping: Figma, Balsamiq, Whimsical
-
+● Product Management: Productboard, JIRA, Trello  
+● Documentation: Confluence, Notion  
+● Data & Analytics Tools: Mixpanel, Amplitude  
+● Design & Prototyping: Figma, Balsamiq, Whimsical  
 ● Other Tools: ChatGPT, Claude, Lovable, n8n
 
 # PROJECTS
