@@ -66,21 +66,22 @@ Involved in developing a SaaS product for safety management
     planning, and feedback integration, contributing to a 50% faster feature delivery rate.  
     ● Enhanced product usability, workflow automation, and client experience through continuous feedback
     loops and data-driven requirement analysis.  
-    ➔ Product Development & Strategy  
-    ❖ Led the development of a 20+ module SaaS EHS platform, improving client operational
+  
+   ➔ Product Development & Strategy  
+      ❖ Led the development of a 20+ module SaaS EHS platform, improving client operational
       efficiency by 30% and user engagement by 50%.  
-    ➔ Requirements Analysis & Documentation  
-    ❖ Translated complex needs into SRS/PRD, reducing development cycle time by 50% and
+  ➔ Requirements Analysis & Documentation  
+      ❖ Translated complex needs into SRS/PRD, reducing development cycle time by 50% and
       ensuring precise feature implementation.  
-    ➔ Cross-functional Collaboration  
-    ❖ Coordinated with design and engineering, launching 5 key modules and reducing
-      post-launch issues by 20%.  
-    ➔ Client Engagement & Solutions  
-    ❖ Conducted 5-10 demos weekly and onboarding/Training sessions to improve client
-      satisfaction  
-    ➔ Agile & Product Improvement  
-    ❖ Participated in Agile sprints, accelerating feature delivery by 30% and increasing user
-      adoption of new features by 50% through continuous feedback.
+  ➔ Cross-functional Collaboration  
+      ❖ Coordinated with design and engineering, launching 5 key modules and reducing
+        post-launch issues by 20%.  
+  ➔ Client Engagement & Solutions  
+      ❖ Conducted 5-10 demos weekly and onboarding/Training sessions to improve client
+        satisfaction  
+  ➔ Agile & Product Improvement  
+      ❖ Participated in Agile sprints, accelerating feature delivery by 30% and increasing user
+        adoption of new features by 50% through continuous feedback.
 
 # Entrepreneurial-Journey 
 I developed and launched a digital ecosystem designed to facilitate the exchange of semester books
