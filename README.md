@@ -26,17 +26,17 @@ https://github.com/kanhapal39/AI-Investment-Copilot-for-Groww#ai-investment-copi
 Prototype link: https://ai-investment-copilot-for-groww.lovable.app/
 
 Hazard Observation Reporting Tool - https://surl.li/idetxe  
-● Tool to report work floor hazards and improve safety management
+● Tool to report work floor hazards and improve safety management  
 ● Developed a Hazard Observation Reporting Tool to simplify the identification and reporting of
-workplace hazards, enabling employees to report unsafe conditions
+  workplace hazards, enabling employees to report unsafe conditions
 
-Incident Reporting & Investigation System - https://surli.cc/htwsdz
-● System for tracking incidents with methods for root cause analysis and corrective actions
+Incident Reporting & Investigation System - https://surli.cc/htwsdz  
+● System for tracking incidents with methods for root cause analysis and corrective actions  
 ● Developed an Incident Reporting & Investigation System to streamline the reporting, tracking, and
 investigation of workplace incidents with Root Cause Analysis with 5-why & Fishbone
 
-Digital Permit to Work
-● Digital solution for managing safety permits in industrial operations
+Digital Permit to Work  
+● Digital solution for managing safety permits in industrial operations  
 ● Developed a Digital Permit to Work (PTW) solution to digitize safety permit processes, improving
 monitoring and compliance
 
