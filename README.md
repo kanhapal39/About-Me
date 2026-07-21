@@ -15,6 +15,7 @@ MoSCow), UX/UI Principles, RAG basics, Prompt Engineering, Defining & Analyzing 
 System Design  
 
 ● Product Management: Productboard, JIRA, Trello
+
 ● Documentation: Confluence, Notion
 ● Data & Analytics Tools: Mixpanel, Amplitude
 ● Design & Prototyping: Figma, Balsamiq, Whimsical
