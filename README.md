@@ -83,27 +83,27 @@ Involved in developing a SaaS product for safety management
       adoption of new features by 50% through continuous feedback.
 
 # Entrepreneurial-Journey 
-I’ve development and launch of a digital ecosystem designed to facilitate the exchange of semester books
+I developed and launched a digital ecosystem designed to facilitate the exchange of semester books
 among college students. This initiative addressed a critical need for cost-effective access to educational
 resources, simultaneously promoting sustainability by reducing the demand for new book purchases and
 minimizing waste.
 
 # Key Achievements & Impact:
-  ➔ Conceptualized, developed, and launched a peer-to-peer book exchange platform, successfully
+   ➔ Conceptualized, developed, and launched a peer-to-peer book exchange platform, successfully
     onboarding over 500 students within the first year and facilitating book exchanges, resulting in an
-    estimated 60% cost saving for students on educational materials.
+    estimated 60% cost saving for students on educational materials.  
   ➔ Secured initial seed funding from the Student Startup and Innovation Policy (SSIP) of Gujarat, for
     the foundational development and operational scale-up. This funding was instrumental in developing the
-    platform's core features and expanding its user base.
+    platform's core features and expanding its user base.  
   ➔ Recognized with the prestigious SSIP Prasansana Award in the Student Growth Stage Start-up
     category, acknowledging the platform's significant impact on student welfare and its innovative
     approach to sustainable education. This award validated the project's potential and its contribution to the
-    entrepreneurial ecosystem.
+    entrepreneurial ecosystem.  
   ➔ Implemented a robust feedback mechanism, leading to continous improvement in user interface and a
     30% reduction in transaction-related issues through continuous platform enhancements and feature
-    iterations.
+    iterations.  
   ➔ Fostered a community of environmentally conscious students, contributing to the recirculation on every
-    semester textbooks and preventing an estimated 50% of paper waste.
+    semester textbooks and preventing an estimated 50% of paper waste.  
   ➔ Managed end-to-end product lifecycle, from market research and user story definition to platform
     deployment and post-launch analytics, demonstrating strong leadership and product management
     capabilities.
