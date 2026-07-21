@@ -17,8 +17,11 @@ System Design
 ● Product Management: Productboard, JIRA, Trello
 
 ● Documentation: Confluence, Notion
+
 ● Data & Analytics Tools: Mixpanel, Amplitude
+
 ● Design & Prototyping: Figma, Balsamiq, Whimsical
+
 ● Other Tools: ChatGPT, Claude, Lovable, n8n
 
 # PROJECTS
@@ -27,7 +30,7 @@ AI-Investment-Copilot-for-Groww
 https://github.com/kanhapal39/AI-Investment-Copilot-for-Groww#ai-investment-copilot-for-groww
 Prototype link: https://ai-investment-copilot-for-groww.lovable.app/
 
-Hazard Observation Reporting Tool - https://surl.li/idetxe
+Hazard Observation Reporting Tool - https://surl.li/idetxe  
 ● Tool to report work floor hazards and improve safety management
 ● Developed a Hazard Observation Reporting Tool to simplify the identification and reporting of
 workplace hazards, enabling employees to report unsafe conditions
