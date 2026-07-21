@@ -42,44 +42,43 @@ monitoring and compliance
 
 # Experience
 
-CORE EHS Solutions - Product & Business Solutions
-Involved in developing a SaaS product for safety management
-  ● Spearheaded the development of a SaaS-based Safety Management Platform comprising 20+ modules,
+CORE EHS Solutions - Product & Business Solutions  
+Involved in developing a SaaS product for safety management  
+    ● Spearheaded the development of a SaaS-based Safety Management Platform comprising 20+ modules,
     facilitating EHS digital transformation for enterprise clients and contributing to a 30% increase in
-    operational efficiency for early adopters.
-  ● Translated complex business requirements into actionable functional specifications, user stories, and
+    operational efficiency for early adopters.  
+    ● Translated complex business requirements into actionable functional specifications, user stories, and
     product requirements with AI assisted to reducing development cycle time by 20% and ensuring
-    alignment with strategic product goals.
-  ● Collaborated cross-functionally with product managers, UI/UX designers, and engineering teams,
+    alignment with strategic product goals.  
+    ● Collaborated cross-functionally with product managers, UI/UX designers, and engineering teams,
     driving the successful launch of 5 key product features and platform enhancements that improved user
-    engagement by 50%.
-  ● Authored comprehensive product documentation (SRS, PRD, SOW) and led 5 to 10 product
+    engagement by 50%.  
+    ● Authored comprehensive product documentation (SRS, PRD, SOW) and led 5 to 10 product
     demonstrations weekly and client onboarding sessions for enterprise customers, resulting in a 30%
-    improvement in client satisfaction scores.
-  ● Streamlined communication and coordination between clients and technical teams, ensuring precise
+    improvement in client satisfaction scores.  
+    ● Streamlined communication and coordination between clients and technical teams, ensuring precise
     implementation of business requirements and product workflows, which reduced post-launch issues by
-    20%.
-  ● Conducted in-depth analysis of customer pain points and operational challenges, proposing and
+    20%.  
+    ● Conducted in-depth analysis of customer pain points and operational challenges, proposing and
     implementing scalable product and process improvements that led to a 60% reduction in incident
-    reporting time.
-  ● Actively participated in Agile product development lifecycle, including requirement validation, sprint
-    planning, and feedback integration, contributing to a 50% faster feature delivery rate.
-  ● Enhanced product usability, workflow automation, and client experience through continuous feedback
-    loops and data-driven requirement analysis.
-
-➔ Product Development & Strategy
+    reporting time.  
+    ● Actively participated in Agile product development lifecycle, including requirement validation, sprint
+    planning, and feedback integration, contributing to a 50% faster feature delivery rate.  
+    ● Enhanced product usability, workflow automation, and client experience through continuous feedback
+    loops and data-driven requirement analysis.  
+    ➔ Product Development & Strategy  
     ❖ Led the development of a 20+ module SaaS EHS platform, improving client operational
-      efficiency by 30% and user engagement by 50%.
-➔ Requirements Analysis & Documentation
+      efficiency by 30% and user engagement by 50%.  
+    ➔ Requirements Analysis & Documentation  
     ❖ Translated complex needs into SRS/PRD, reducing development cycle time by 50% and
-      ensuring precise feature implementation.
-➔ Cross-functional Collaboration
+      ensuring precise feature implementation.  
+    ➔ Cross-functional Collaboration  
     ❖ Coordinated with design and engineering, launching 5 key modules and reducing
-      post-launch issues by 20%.
-➔ Client Engagement & Solutions
+      post-launch issues by 20%.  
+    ➔ Client Engagement & Solutions  
     ❖ Conducted 5-10 demos weekly and onboarding/Training sessions to improve client
-      satisfaction.
-➔ Agile & Product Improvement
+      satisfaction  
+    ➔ Agile & Product Improvement  
     ❖ Participated in Agile sprints, accelerating feature delivery by 30% and increasing user
       adoption of new features by 50% through continuous feedback.
 
